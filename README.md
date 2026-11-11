@@ -38,9 +38,7 @@ The objective was to analyse sales performance, identify customer purchasing pat
 
 ## Dashboard
 
-[View Interactive Dashboard](INSERT_LOOKER_STUDIO_LINK)
-
-![Sales & Customer Analytics Dashboard](dashboard/dashboard_screenshot.png)
+[View Interactive Dashboard](https://datastudio.google.com/reporting/c315be69-4683-4641-affe-26257562c82f)
 
 ## Project Deliverables
 
